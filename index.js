@@ -7,7 +7,7 @@ class Validate {
   constructor (users) {
     this.users = users;
 
-    return this.validate;
+    return this.validate.bind(this);
   }
 
   /**
