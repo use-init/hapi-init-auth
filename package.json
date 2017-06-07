@@ -1,6 +1,6 @@
 {
   "name": "hapi-init-auth",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "author": "Hans Christian Reinl <info@drublic.de>",
   "license": "MIT",
